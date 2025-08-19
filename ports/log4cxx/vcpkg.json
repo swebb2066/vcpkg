@@ -36,9 +36,6 @@
           "default-features": false
         }
       ]
-    },
-    "mprfa": {
-      "description": "Synchronizes rollover when multiple process log to the same file"
     }
   }
 }
